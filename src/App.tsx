@@ -22,7 +22,7 @@ const handleVideoEnd = () => {
 }
   return (
     <>
-    <button onClick={playVideo}>Enter Doyle's Website</button>
+    <button onClick={playVideo}>Enter Atrioc's Store</button>
     <div className="scare">
       <video
           ref={videoRef}
